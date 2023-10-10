@@ -2,11 +2,11 @@
 
 WaBot-VendasSSH
 
-🔥Feito por: https://t.me/MegahBox
+🔥Feito por: https://t.me/cyberperu
 
-👥Canal do telegram: https://t.me/cursov2ray
+👥Canal do telegram: https://t.me/cyberperu
 
-🤖Bot de teste: https://wa.me/559191288339
+🤖Bot de teste: https://wa.me/5199999
 
 Testado nos ubuntus 18 e 20
 • 🛠️Instalação
@@ -14,7 +14,7 @@ Testado nos ubuntus 18 e 20
 
 Use o comando abaixo para instalar o bot e suas dependências⤵️
 
-sudo apt install curl -y; bash <(curl https://raw.githubusercontent.com/endblack/WaBot-VendasSSH/main/install.sh)
+sudo apt install curl -y; bash <(curl https://raw.githubusercontent.com/Hack-peru/WaBot-VendasSSH/main/install.sh)
 
 • Parte 2
 
