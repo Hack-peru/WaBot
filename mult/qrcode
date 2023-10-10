@@ -4,7 +4,7 @@ screen -r -S megah -X quit
 echo
 echo "Leia o Qrcode abaixo e logo depois digite o comando onbot"
 echo
-echo "CTRL+C Para sair"
+echo "CTRL+C Para salir"
 echo
 sleep 2
 node /etc/megahbot/index.js
